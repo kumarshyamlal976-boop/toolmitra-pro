@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kumarshyamlal976-boop.github.io/toolmitra-pro/sitemap.xml
+Sitemap: https://toolmitrapro-in.netlify.app/sitemap.xml
